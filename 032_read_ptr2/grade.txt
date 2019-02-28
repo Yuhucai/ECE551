@@ -1,0 +1,9 @@
+Grading at 09/16/2018:19:51:20.032686
+For commit ID b09048cb5f0659033f978c838eaabca2f49cfe19
+Attempting to compile test.c
+gcc -o test -Wall -Werror -std=gnu99 test.c
+compiled
+Your file matched the expected output
+Your output matched what we expected
+
+Overall Grade: PASSED

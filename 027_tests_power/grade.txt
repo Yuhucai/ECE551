@@ -1,0 +1,77 @@
+Grading at 09/13/2018:19:55:57.294454
+For commit ID 2c29895e2d27bb0a0c62cf4a607efd12928bd580
+-------------------------------------
+**Testing correct implementation **
+The power function passes the test case
+The power function passes the test case
+The power function passes the test case
+The power function passes the test case
+The power function passes the test case
+
+-------------------------------------
+**Testing broken implementation 10 **
+The power function passes the test case
+The power function passes the test case
+The power function fails the test case
+
+-------------------------------------
+**Testing broken implementation 11 **
+The power function passes the test case
+The power function passes the test case
+The power function fails the test case
+
+-------------------------------------
+**Testing broken implementation 1 **
+The power function passes the test case
+The power function passes the test case
+The power function fails the test case
+
+-------------------------------------
+**Testing broken implementation 2 **
+The power function fails the test case
+
+-------------------------------------
+**Testing broken implementation 3 **
+The power function passes the test case
+The power function fails the test case
+
+-------------------------------------
+**Testing broken implementation 4 **
+The power function passes the test case
+The power function passes the test case
+The power function fails the test case
+
+-------------------------------------
+**Testing broken implementation 5 **
+The power function passes the test case
+The power function passes the test case
+The power function fails the test case
+
+-------------------------------------
+**Testing broken implementation 6 **
+The power function passes the test case
+The power function passes the test case
+The power function fails the test case
+
+-------------------------------------
+**Testing broken implementation 7 **
+The power function passes the test case
+The power function passes the test case
+The power function fails the test case
+
+-------------------------------------
+**Testing broken implementation 8 **
+The power function passes the test case
+The power function passes the test case
+The power function fails the test case
+
+-------------------------------------
+**Testing broken implementation 9 **
+The power function passes the test case
+The power function passes the test case
+The power function fails the test case
+
+All tests were correct.
+
+
+Overall Grade: PASSED

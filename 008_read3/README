@@ -1,0 +1,45 @@
+ 1. Create a file "answer.txt".
+ 2. Execute the following code by hand 
+   (as you learned in Chapter 2), and write
+   the output in your "answer.txt" file
+
+struct myStruct_tag {
+  int a;
+  char c;
+};
+typedef struct myStruct_tag myStruct;
+
+struct otherStruct_tag {
+  myStruct s;
+  double d;
+};
+typedef struct otherStruct_tag otherStruct;
+
+otherStruct g(otherStruct x, otherStruct y) {
+  x.s.a += y.s.a;
+  x.s.c +=  y.s.a;
+  x.d += 2 * y.s.c;
+  return x;
+}
+
+int main(void) {
+  otherStruct s1;
+  otherStruct s2;
+  s1.s.a = 3;
+  s1.s.c = 'f';
+  s1.d = 2.17;
+  s2.s.a = 2;
+  s2.s.c = 'C';
+  s2.d = 3.14;
+  otherStruct s3 = g(s1, s2);
+  otherStruct s4 = g(s2, s3);
+  printf("s1: %d %c %.2f\n", s1.s.a, s1.s.c, s1.d);
+  printf("s2: %d %c %.2f\n", s2.s.a, s2.s.c, s2.d);
+  printf("s3: %d %c %.2f\n", s3.s.a, s3.s.c, s3.d);
+  printf("s4: %d %c %.2f\n", s4.s.a, s4.s.c, s4.d);
+  return 0;
+}
+
+//end of code
+
+3. Submit your answer.txt file for grading.

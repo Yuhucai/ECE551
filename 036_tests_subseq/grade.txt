@@ -1,0 +1,123 @@
+Grading at 09/17/2018:19:11:12.892924
+For commit ID 39423f6987a609de745be728c80ecc50a31ee4f7
+-------------------------------------
+**Testing correct implementation**
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+
+-------------------------------------
+**Testing broken implementation 10**
+the function passes the test case
+the function fails the test case
+the function passes the test case
+the function fails the test case
+
+-------------------------------------
+**Testing broken implementation 11**
+the function fails the test case
+the function fails the test case
+
+-------------------------------------
+**Testing broken implementation 1**
+the function passes the test case
+the function passes the test case
+the function fails the test case
+the function passes the test case
+the function passes the test case
+the function fails the test case
+
+-------------------------------------
+**Testing broken implementation 2**
+the function fails the test case
+the function fails the test case
+
+-------------------------------------
+**Testing broken implementation 3**
+the function fails the test case
+the function fails the test case
+
+-------------------------------------
+**Testing broken implementation 4**
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function fails the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function fails the test case
+
+-------------------------------------
+**Testing broken implementation 5**
+the function fails the test case
+the function fails the test case
+
+-------------------------------------
+**Testing broken implementation 6**
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function fails the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function passes the test case
+the function fails the test case
+
+-------------------------------------
+**Testing broken implementation 7**
+the function fails the test case
+the function fails the test case
+
+-------------------------------------
+**Testing broken implementation 8**
+the function fails the test case
+the function fails the test case
+
+-------------------------------------
+**Testing broken implementation 9**
+the function fails the test case
+the function fails the test case
+
+All test programs were handled correctly
+
+Overall Grade: PASSED

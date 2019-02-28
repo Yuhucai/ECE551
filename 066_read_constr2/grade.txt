@@ -1,0 +1,8 @@
+Grading at 10/15/2018:15:26:58.226609
+For commit ID 7c804e65f5bd648eda290592308c401835de60ef
+Attempting to compile:
+g++ -o code -Wall -Werror -std=gnu++98 code.cpp code.h
+Your file matched the expected output
+Your output matched what we expected
+
+Overall Grade: PASSED
